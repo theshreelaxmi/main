@@ -9,7 +9,8 @@
 
 <body>
     <center>
-        <h1>The Heading</h1>
+        <h1>The Heading 1</h1>
+        <h1>The Heading 2</h1>
     </center>
 </body>
 
